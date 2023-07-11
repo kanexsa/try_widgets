@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:try_widgets/animated_container/fade_in_out.dart';
+import 'package:try_widgets/drawers/drawers.dart';
 
 void main() => runApp(const MaterialApp(
-      home: FadeInOut(title: 'Opacity Demo'),
+      home: Drawers(
+        title: 'Drawer Demo',
+      ),
     ));
