@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:try_widgets/page_route_animation/page2.dart';
+import 'package:try_widgets/animate/page_route_animation/page2.dart';
 
 class Page1 extends StatelessWidget {
   const Page1({super.key});
