@@ -1,8 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:try_widgets/drawers/drawers.dart';
+import 'package:try_widgets/design/tabs/tabs.dart';
 
-void main() => runApp(const MaterialApp(
-      home: Drawers(
-        title: 'Drawer Demo',
-      ),
-    ));
+void main() => runApp(const Tabs());

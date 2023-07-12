@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:try_widgets/physics_simulation/draggable_card.dart';
+import 'package:try_widgets/animate/physics_simulation/draggable_card.dart';
 
 class PhysicsCardDragDemo extends StatelessWidget {
   const PhysicsCardDragDemo({super.key});
